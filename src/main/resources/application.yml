@@ -1,0 +1,5 @@
+spring:
+  aws:
+    dynamo:
+      accessKey: ${AWS_ACCESSKEY}
+      secretKey: ${AWS_SECRETKEY}
